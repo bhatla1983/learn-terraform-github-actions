@@ -15,7 +15,7 @@ terraform {
     organization = "ankur-terraform"
 
     workspaces {
-      name = "dev"
+      name = "learn-terraform-github-actions"
     }
   }
 }
